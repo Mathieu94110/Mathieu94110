@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi I'm Mathieu 👋
 
-<!--
-**Mathieu94110/Mathieu94110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mathieu Enault a Front End Web Developer. I Spend most of time coding outstanding projects and improve my knowledge.
 
-Here are some ideas to get you started:
+📫 You need a motivated junior front-end developer reach me out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently improve my skills in Javascript, project architecture, algorithm and tests
+💻 Most used line of code git commit -m "Initial Commit"
+🤔 I still don't know if I will become a fullstack developer one day.
+📫 How to reach me: me94110@gmail.com.
+😄 Pronouns: gtOne, Halouf.
+⚡ Fun fact: I play in Starcraft2 game for then years and i always enjoy playing the same games.
+Top Technologies
+Vue Badge React Badge Javascript Badge Typescript Badge
