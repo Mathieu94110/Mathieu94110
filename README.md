@@ -1,4 +1,4 @@
-Hi I'm Mathieu 👋
+Hi 👋
 
 I'm Mathieu Enault a Front End Web Developer. I Spend most of time coding outstanding projects and improve my knowledge.
 
@@ -14,7 +14,7 @@ I'm Mathieu Enault a Front End Web Developer. I Spend most of time coding outsta
 
 😄 Pronouns: gtOne, Halouf.
 
-⚡ Fun fact: I play in Starcraft2 game for then years and i always enjoy playing the same games.
+⚡ Fun fact: I play in Starcraft2 game for then years now and i always enjoy playing the same games.
 
 Top Technologies
 - Vue 
