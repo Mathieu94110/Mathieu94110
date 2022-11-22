@@ -8,7 +8,7 @@ I'm Mathieu Enault a Front End Web Developer. I Spend most of time coding outsta
 
 💻 Most used line of code git commit -m "Initial Commit"
 
-🤔 I still don't know if I will become a fullstack developer one day.
+🤔 Which came first the chicken or the egg ?
 
 📫 How to reach me: me94110@gmail.com.
 
