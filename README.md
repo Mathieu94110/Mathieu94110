@@ -4,20 +4,19 @@ I'm Mathieu Enault a Front End Web Developer. I Spend most of time coding outsta
 
 📫 You need a motivated junior front-end developer reach me out!
 
-🔭 I’m currently improve my skills in Javascript, project architecture, algorithm and tests
+🔭 I’m currently improve my skills in Javascript, NextJs, project architecture, algorithm and tests
 
 💻 Most used line of code git commit -m "Initial Commit"
 
 🤔 Which came first the chicken or the egg ?
 
-📫 How to reach me: me94110@gmail.com.
+📫 How to reach me: enault.mathieu2@gmail.com.
 
 😄 Pronouns: gtOne, Halouf.
 
-⚡ Fun fact: I play in Starcraft2 game for then years now and i always enjoy playing the same games.
-
 Top Technologies
-- Vue 
-- React 
 - Javascript 
+- React 
+- NextJs
+- React Native
 - Typescript 
