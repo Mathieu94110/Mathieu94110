@@ -4,7 +4,7 @@ I'm Mathieu Enault a Front End Web Developer. I Spend most of time coding outsta
 
 📫 You need a motivated junior front-end developer reach me out!
 
-🔭 I’m currently improve my skills in Javascript, NextJs, project architecture, algorithm and tests
+🔭 I’m currently improve my skills in Javascript, Vue, project architecture, algorithm and tests
 
 💻 Most used line of code git commit -m "Initial Commit"
 
@@ -16,7 +16,8 @@ I'm Mathieu Enault a Front End Web Developer. I Spend most of time coding outsta
 
 Top Technologies
 - Javascript 
-- React 
+- React
+- Vue 
 - NextJs
 - React Native
 - Typescript 
