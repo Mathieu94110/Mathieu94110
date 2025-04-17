@@ -15,9 +15,8 @@ I'm Mathieu Enault a Front End Web Developer. I Spend most of time coding outsta
 😄 Pronouns: gtOne, Halouf.
 
 Top Technologies
-- Javascript 
-- React
-- Vue 
-- NextJs
-- React Native
+- Javascript
 - Typescript 
+- Angular
+- React 
+- NextJs
